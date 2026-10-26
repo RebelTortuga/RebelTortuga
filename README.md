@@ -27,7 +27,32 @@ I'm an independent creator, gamer, and tech enthusiast who enjoys solving proble
 
 A free custom ComfyUI node for selectively clearing connected images and prompts while preserving saved files and workflow connections.
 
-More projects coming soon!
+## 🔎 Explore My Free Software
+
+Free Windows diagnostic and repair tools, gaming utilities,
+ComfyUI custom nodes, and local AI workflows.
+
+### 🎮 Windows and Gaming Toolkits
+
+| Project | Description |
+|---|---|
+| [World of Warcraft Diagnostic and Repair Toolkit](https://github.com/RebelTortuga/wow-diagnostic-and-repair-toolkit) | Free WoW diagnostics, troubleshooting, and repair tools. |
+| [Firefox Diagnostic and Repair Toolkit](https://github.com/RebelTortuga/firefox-diagnostic-and-repair-toolkit) | Firefox troubleshooting and repair utilities. |
+| [Brave Diagnostic and Repair Toolkit](https://github.com/RebelTortuga/brave-diagnostic-and-repair-toolkit) | Brave browser diagnostics and repair utilities. |
+| [Shell Diagnostic and Repair Toolkit](https://github.com/RebelTortuga/shell-diagnostic-and-repair-toolkit) | Windows shell diagnostic and repair tools. |
+
+### 🤖 ComfyUI and Local AI Workflows
+
+| Project | Description |
+|---|---|
+| [ComfyUI Clean Slate](https://github.com/RebelTortuga/comfyui-clean-slate) | Clear connected images and prompts while preserving workflow connections. |
+| [Qwen Image Editing](https://github.com/RebelTortuga/comfyui-free-local-qwen-image-edit) | Free local AI image-editing workflow. |
+| [SDXL Inpainting](https://github.com/RebelTortuga/comfyui-free-local-sdxl-inpainting) | Free local SDXL image-inpainting workflow. |
+| [Wan Video Quality](https://github.com/RebelTortuga/comfyui-free-local-wan-video-quality) | Free local Wan video workflow focused on quality. |
+| [Wan Video High Resolution](https://github.com/RebelTortuga/comfyui-free-local-wan-video-high-resolution) | Free local high-resolution Wan video workflow. |
+
+Visit each repository for documentation, requirements, and available downloads.
+
 
 ## 🤝 Feedback & Contributions
 
