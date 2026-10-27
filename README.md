@@ -77,3 +77,16 @@ Donations are completely optional.
 *Stay rebellious. Stay curious. Shell yeah! 🐢💚*
 
 **— RebelTortuga**
+
+---
+
+<!-- BEGIN REBELTORTUGA SAFETY -->
+## Privacy & Software Safety
+
+RebelTortuga projects emphasize public source code, clear documentation, and informed user choice. We aim to follow Google’s Unwanted Software Policy through transparent downloads and clear disclosures. Review each project’s requirements, license, and safety guidance before use.
+
+[Privacy & Software Safety](https://rebeltortuga.github.io/privacy-software-safety.html) · [Project Licenses](https://rebeltortuga.github.io/project-licenses.html)
+
+For bugs, use the relevant project’s Issues page. For sensitive vulnerabilities, follow that repository’s SECURITY.md; do not post exploit details or credentials publicly.
+<!-- END REBELTORTUGA SAFETY -->
+
