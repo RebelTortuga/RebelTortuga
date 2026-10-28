@@ -92,5 +92,16 @@ For bugs, use the relevant project’s Issues page. For sensitive vulnerabilitie
 
 ## Connect with RebelTortuga
 
-- [YouTube](https://www.youtube.com/@RebelTortuga)
+- [YouTube](https://www.youtube.com/channel/UCpMIirV8w5RfVd9TpKpA2pQ)
 - [Twitch](https://www.twitch.tv/rebeltortuga)
+
+<!-- rebeltortuga-official-links:start -->
+## Official RebelTortuga links
+
+- 🌐 [Website — Explore all nine projects](https://rebeltortuga.github.io/)
+- 💻 [GitHub — Free Downloads & Source Code](https://github.com/RebelTortuga)
+- 🎮 [Twitch — Gaming & Livestreams](https://www.twitch.tv/rebeltortuga)
+- ▶️ [YouTube — Videos & Project Updates](https://www.youtube.com/channel/UCpMIirV8w5RfVd9TpKpA2pQ)
+- 🐢 [Patreon — Community & Project Updates](https://www.patreon.com/RebelTortuga)
+- ☕ [Ko-fi — Optional Support](https://ko-fi.com/rebeltortuga)
+<!-- rebeltortuga-official-links:end -->
