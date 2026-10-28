@@ -90,3 +90,7 @@ RebelTortuga projects emphasize public source code, clear documentation, and inf
 For bugs, use the relevant project’s Issues page. For sensitive vulnerabilities, follow that repository’s SECURITY.md; do not post exploit details or credentials publicly.
 <!-- END REBELTORTUGA SAFETY -->
 
+## Connect with RebelTortuga
+
+- [YouTube](https://www.youtube.com/@RebelTortuga)
+- [Twitch](https://www.twitch.tv/rebeltortuga)
