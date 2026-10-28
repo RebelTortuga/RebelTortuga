@@ -90,18 +90,14 @@ RebelTortuga projects emphasize public source code, clear documentation, and inf
 For bugs, use the relevant project’s Issues page. For sensitive vulnerabilities, follow that repository’s SECURITY.md; do not post exploit details or credentials publicly.
 <!-- END REBELTORTUGA SAFETY -->
 
-## Connect with RebelTortuga
-
-- [YouTube](https://www.youtube.com/channel/UCpMIirV8w5RfVd9TpKpA2pQ)
-- [Twitch](https://www.twitch.tv/rebeltortuga)
 
 <!-- rebeltortuga-official-links:start -->
 ## Official RebelTortuga links
 
-- 🌐 [Website — Explore all nine projects](https://rebeltortuga.github.io/)
-- 💻 [GitHub — Free Downloads & Source Code](https://github.com/RebelTortuga)
-- 🎮 [Twitch — Gaming & Livestreams](https://www.twitch.tv/rebeltortuga)
-- ▶️ [YouTube — Videos & Project Updates](https://www.youtube.com/channel/UCpMIirV8w5RfVd9TpKpA2pQ)
-- 🐢 [Patreon — Community & Project Updates](https://www.patreon.com/RebelTortuga)
-- ☕ [Ko-fi — Optional Support](https://ko-fi.com/rebeltortuga)
+- [Website](https://rebeltortuga.github.io/)
+- [GitHub](https://github.com/RebelTortuga)
+- [Twitch](https://www.twitch.tv/rebeltortuga)
+- [▶ YouTube](https://www.youtube.com/channel/UCpMIirV8w5RfVd9TpKpA2pQ)
+- [Patreon](https://www.patreon.com/RebelTortuga)
+- [Ko-fi](https://ko-fi.com/rebeltortuga)
 <!-- rebeltortuga-official-links:end -->
