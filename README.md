@@ -1,8 +1,17 @@
 <div align="center">
 
-<img src="assets/RebelTortuga.png" width="180" alt="RebelTortuga mascot">
+<img src="assets/24ffe825-d83f-40d4-a7c6-25d7dad741db.png" width="100%" alt="RebelTortuga neon wireframe turtle banner — Free Software, Creative Tools, Real Solutions">
 
-# 🐢 RebelTortuga
+<!-- rebeltortuga-official-links:start -->
+<p>
+<a href="https://rebeltortuga.github.io/">🌐 Website</a> ·
+<a href="https://github.com/RebelTortuga">GitHub</a> ·
+<a href="https://www.twitch.tv/rebeltortuga">Twitch</a> ·
+<a href="https://www.youtube.com/channel/UCpMIirV8w5RfVd9TpKpA2pQ">YouTube</a> ·
+<a href="https://www.patreon.com/cw/RebelTortuga">Patreon</a> ·
+<a href="https://ko-fi.com/rebeltortuga">Ko-fi</a>
+</p>
+<!-- rebeltortuga-official-links:end -->
 
 **Free Tools • Gaming Utilities • AI Experiments • Open Source**
 
@@ -89,15 +98,3 @@ RebelTortuga projects emphasize public source code, clear documentation, and inf
 
 For bugs, use the relevant project’s Issues page. For sensitive vulnerabilities, follow that repository’s SECURITY.md; do not post exploit details or credentials publicly.
 <!-- END REBELTORTUGA SAFETY -->
-
-
-<!-- rebeltortuga-official-links:start -->
-## Official RebelTortuga links
-
-- 🌐 [Website](https://rebeltortuga.github.io/)
-- <img src="https://cdn.simpleicons.org/github/FFFFFF" width="17" height="17" alt=""> [GitHub](https://github.com/RebelTortuga)
-- <img src="https://cdn.simpleicons.org/twitch/9146FF" width="17" height="17" alt=""> [Twitch](https://www.twitch.tv/rebeltortuga)
-- <img src="https://cdn.simpleicons.org/youtube/FF0033" width="17" height="17" alt=""> [YouTube](https://www.youtube.com/channel/UCpMIirV8w5RfVd9TpKpA2pQ)
-- <img src="https://cdn.simpleicons.org/patreon/FF424D" width="17" height="17" alt=""> [Patreon](https://www.patreon.com/cw/RebelTortuga)
-- <img src="https://cdn.simpleicons.org/kofi/FF5E5B" width="17" height="17" alt=""> [Ko-fi](https://ko-fi.com/rebeltortuga)
-<!-- rebeltortuga-official-links:end -->
