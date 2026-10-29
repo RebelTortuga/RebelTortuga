@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/24ffe825-d83f-40d4-a7c6-25d7dad741db.png" width="100%" alt="RebelTortuga neon wireframe turtle banner — Free Software, Creative Tools, Real Solutions">
+<img src="assets/RebelTortuga-Neon-Watermarked.webp" width="100%" alt="RebelTortuga neon wireframe turtle banner — Free Software, Creative Tools, Real Solutions">
 
 <!-- rebeltortuga-official-links:start -->
 <p>
