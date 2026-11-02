@@ -49,6 +49,7 @@ ComfyUI custom nodes, and local AI workflows.
 | [Firefox Diagnostic and Repair Toolkit](https://github.com/RebelTortuga/firefox-diagnostic-and-repair-toolkit) | Firefox troubleshooting and repair utilities. |
 | [Brave Diagnostic and Repair Toolkit](https://github.com/RebelTortuga/brave-diagnostic-and-repair-toolkit) | Brave browser diagnostics and repair utilities. |
 | [Shell Diagnostic and Repair Toolkit](https://github.com/RebelTortuga/shell-diagnostic-and-repair-toolkit) | Windows shell diagnostic and repair tools. |
+| [Repo-Update-Manager](https://github.com/RebelTortuga/Repo-Update-Manager) | Early Windows preview for GitHub and npm update checks; only approved clean Git fast-forward updates are automatic. [Download v0.1.0](https://github.com/RebelTortuga/Repo-Update-Manager/releases/download/v0.1.0/Repo-Update-Manager-v0.1.0-win-x64-portable.zip). |
 
 ### 🤖 ComfyUI and Local AI Workflows
 
